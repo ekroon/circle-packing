@@ -1,0 +1,10 @@
+[package]
+name = "circle-packing"
+version = "0.1.0"
+authors = ["Erwin Kroon <erwin@k3n.nl>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nannou = "0.15.0"
